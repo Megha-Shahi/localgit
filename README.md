@@ -1,4 +1,4 @@
 Megha
 Shahi
 hyderabad india
-from-master
+from-release
